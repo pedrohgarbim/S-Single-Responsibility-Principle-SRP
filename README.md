@@ -22,3 +22,6 @@ No projeto implementando o SRP:
 #### 🎯 Benefícios:
 - **Facilidade de manutenção**: Agora, se precisarmos alterar a forma de calcular o total, só mexemos na classe `Invoice`. Se precisarmos alterar o armazenamento, só modificamos `InvoiceRepository`.
 - **Testabilidade**: Cada classe pode ser testada 🧪 separadamente, tornando o código mais confiável e previsível.
+## Estrutura do projeto
+  ![image](https://github.com/user-attachments/assets/dde9f3af-f5b4-4f9f-a44e-bd1f44ff122f)
+
