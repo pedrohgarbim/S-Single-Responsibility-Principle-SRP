@@ -1,7 +1,7 @@
  
 # 🧑‍💼 Single Responsibility Principle (SRP) 
 ![image](https://github.com/user-attachments/assets/5ceb0f88-11e7-4625-97f4-bd25927b4d09)
-## O que é o SRP?
+## O que é o SRP? 
 
 O **Princípio da Responsabilidade Única (SRP)** afirma que uma classe deve ter **apenas uma razão para mudar**, ou seja, ela deve ter uma única responsabilidade ou função no sistema. 📋 Isso garante que cada classe tenha uma função específica, o que facilita a manutenção 🛠️ e a evolução do software.
 
